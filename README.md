@@ -1,6 +1,6 @@
 # DG-LGK
-This repository provides the official PyTorch implementation of the following paper:
-Learning Generalized Knowledge from A Single Domain on Urban-scene Segmentation
+This repository provides the official PyTorch implementation of the following paper:  
+**Learning Generalized Knowledge from A Single Domain on Urban-scene Segmentation**
 
 ## Congifuration Environment
 - python 3.7
